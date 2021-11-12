@@ -1,0 +1,15 @@
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\bin\Debug\net6.0\Ph.Bank.exe
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\bin\Debug\net6.0\Ph.Bank.deps.json
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\bin\Debug\net6.0\Ph.Bank.runtimeconfig.json
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\bin\Debug\net6.0\Ph.Bank.dll
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\bin\Debug\net6.0\ref\Ph.Bank.dll
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\bin\Debug\net6.0\Ph.Bank.pdb
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\Ph.Bank.csproj.AssemblyReference.cache
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\Ph.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\Ph.Bank.AssemblyInfoInputs.cache
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\Ph.Bank.AssemblyInfo.cs
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\Ph.Bank.csproj.CoreCompileInputs.cache
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\Ph.Bank.dll
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\ref\Ph.Bank.dll
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\Ph.Bank.pdb
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\Ph.Bank\obj\Debug\net6.0\Ph.Bank.genruntimeconfig.cache

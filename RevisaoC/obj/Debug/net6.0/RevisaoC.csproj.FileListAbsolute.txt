@@ -1,0 +1,15 @@
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\bin\Debug\net6.0\RevisaoC.exe
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\bin\Debug\net6.0\RevisaoC.deps.json
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\bin\Debug\net6.0\RevisaoC.runtimeconfig.json
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\bin\Debug\net6.0\RevisaoC.dll
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\bin\Debug\net6.0\ref\RevisaoC.dll
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\bin\Debug\net6.0\RevisaoC.pdb
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\RevisaoC.csproj.AssemblyReference.cache
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\RevisaoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\RevisaoC.AssemblyInfoInputs.cache
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\RevisaoC.AssemblyInfo.cs
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\RevisaoC.csproj.CoreCompileInputs.cache
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\RevisaoC.dll
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\ref\RevisaoC.dll
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\RevisaoC.pdb
+C:\Users\pheli\Desktop\cursos\dotnet\estrutura\RevisaoC\obj\Debug\net6.0\RevisaoC.genruntimeconfig.cache
